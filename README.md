@@ -1,37 +1,15 @@
-# 📊 Biomedical Device Design: Investigation Report
+# 📊 Biomedical Device Design: Non-Invasive-inter-cranial-pressure
 
 ## 🏥 Project Overview
 
 This repository contains an investigation report created by undergraduates of the Department of Electronic and Telecommunications Engineering, Faculty of Engineering, University of Moratuwa. The report explores potential biomedical device designs, focusing on innovative solutions for the healthcare industry. The final selected project aims to design a **non-invasive intracranial pressure (ICP) measurement device** for neurovascular monitoring.
 
 ---
-
-## 📌 Table of Contents
-
-1. **[Introduction/Strategic Focus](#introductionstrategic-focus)**
-   - [Mission](#mission)
-   - [Strength and Capabilities](#strength-and-capabilities)
-   - [Consumer Population](#consumer-population)
-   - [Market Analysis](#market-analysis)
-   - [Time and Resource Allocation](#time-and-resource-allocation)
-   - [Affordability](#affordability)
-
-2. **[Need Finding](#need-finding)**
-   - [Problem 1: Non-Invasive ICP Measurement](#problem-1-non-invasive-icp-measurement)
-   - [Problem 2: Visualizing Internal Damage](#problem-2-visualizing-internal-damage)
-   - [Problem 3: Stethoscope Sound Analysis](#problem-3-stethoscope-sound-analysis)
-
-3. **[Need Selection](#need-selection)**
-
-4. **[Conclusion](#conclusion)**
-
----
-
 ## 📄 Introduction/Strategic Focus
 
 ### Mission
 
-Our mission at **BEsol Limited** is to invent and innovate modern-day healthcare equipment to enhance the efficiency and productivity of medical personnel.
+Our mission at **BEsol Limited** (arbitory) is to invent and innovate modern-day healthcare equipment to enhance the efficiency and productivity of medical personnel.
 
 ### Strength and Capabilities
 
@@ -152,4 +130,4 @@ This investigation highlights the potential of designing a **non-invasive ICP me
 - **Liyanaarachchi D.S.G.L.S.**
 
 **Department of Electronic & Telecommunication Engineering**  
-University of Moratuwa
+**University of Moratuwa**
